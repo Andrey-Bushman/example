@@ -1,0 +1,5 @@
+version: "3.8"
+services: 
+    console:
+        build: console-app
+        container_name: console-app
